@@ -11,3 +11,5 @@ Ask the following 6 questions before moving into any projects:
 4. Where?
 5. When?
 6. How?
+
+When we have a dialogue, genuine value emerges as an outcome.
